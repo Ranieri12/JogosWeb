@@ -1,8 +1,8 @@
 # JogosWeb
 Paginas
 
-[Exercicio Interação SVG](https://kunaibr.github.io/JogosWeb/Web/nteracion/Snap.html)
+[Bandeira Japão](https://ranieri12.github.io/JogosWeb/WebPages/bandeiraJapao.html)
 
-[Pagina inicial](https://kunaibr.github.io/JogosWeb/Web/index.html)
+[Pagina inicial]()
 
-[Interações](https://kunaibr.github.io/JogosWeb/Web/nteracion/Snap.html)
+[Interações]()
