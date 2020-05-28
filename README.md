@@ -3,6 +3,6 @@ Paginas
 
 [Bandeira Japão](https://ranieri12.github.io/JogosWeb/WebPages/bandeiraJapao.html)
 
-[Pagina inicial]()
+[Pagina inicial](https://ranieri12.github.io/JogosWeb/WebPages/PaginaInicial.html)
 
-[Interações]()
+[Link Pag Inicial](https://ranieri12.github.io/JogosWeb/WebPages/exemplo.html)
