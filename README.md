@@ -6,3 +6,5 @@ Paginas
 [Pagina inicial](https://ranieri12.github.io/JogosWeb/WebPages/PaginaInicial.html)
 
 [Link Pag Inicial](https://ranieri12.github.io/JogosWeb/WebPages/exemplo.html)
+
+[Exercício SVG](https://ranieri12.github.io/JogosWeb/WebPages/Snap.html)
