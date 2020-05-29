@@ -8,3 +8,5 @@ Paginas
 [Link Pag Inicial](https://ranieri12.github.io/JogosWeb/WebPages/exemplo.html)
 
 [Exercício SVG](https://ranieri12.github.io/JogosWeb/WebPages/Snap.html)
+
+[Animação SVG](https://ranieri12.github.io/JogosWeb/WebPages/svgAnim.html)
